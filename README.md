@@ -97,6 +97,7 @@ endmodule
 ![image](https://github.com/KabilanBaskaran0807/VLSI-LAB-EXP-3/assets/166724685/444d0f3e-ac46-4417-8232-a65a8e977e20)
 
 # 4 Bit Multiplier:
+![image](https://github.com/KabilanBaskaran0807/VLSI-LAB-EXP-3/assets/166724685/dae0317c-05e1-4505-863f-a51485bda186)
 
 
 # Result
